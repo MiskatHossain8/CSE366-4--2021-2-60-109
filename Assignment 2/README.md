@@ -1,4 +1,4 @@
-# Assignment 1: Robot Task Optimization Using Genetic Algorithm
+# Assignment 2: Robot Task Optimization Using Genetic Algorithm
 This folder contains all the deliverables for the "Robot Task Optimization Using Genetic Algorithm" project.
 ## Files
 - `robot_resource_optimization.ipynb`: The Jupyter notebook with the simulation implementation.
